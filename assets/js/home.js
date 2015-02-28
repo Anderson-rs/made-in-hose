@@ -16,7 +16,7 @@ requirejs.config({
 
 require(["jquery", "jquery.bootstrap", "slick"], function($){
 
-    MH = {
+   var MH = {
 
         /**
         *caroussel bootstrap
